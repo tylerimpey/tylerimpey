@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🤓 It's Me, Tyler Impey
 
-<!--
-**tylerimpey/tylerimpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer and Financial Analyst, with a passion for Web3 and computing.
 
-Here are some ideas to get you started:
+## Software Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const Languages = {
+  "python",
+  "javascript",
+  "typescript",
+  "matlab",
+  "r",
+  "html",
+  "[s]css",
+  "fortran",
+}
+```
